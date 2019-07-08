@@ -1,0 +1,43 @@
+
+
+.primeira{
+
+    margin: 50px 25% 45px 26%;
+    background-image: url("imagens/gallery.jpg");
+    padding: 170px;
+}
+
+.segunda{
+
+    background-image: url("imagens/casa1.jpg");
+    margin: 30px 80% 30px 10%;
+    padding: 90px;
+    border-width: 3px;
+    float: left;
+    
+}
+
+.terceira{
+   
+    background-image: url("imagens/carro1.jpg");
+    margin: 1px 13% 20px 30%;
+    padding: 90px;
+    float: left;
+    
+
+}
+
+.quarta{
+    background-image: url("imagens/lar1.jpg");
+    margin: 2px 40% 20px 60%;
+    padding: 90px;
+    float: center;
+    
+}
+
+.quinta{
+    background-image: url("imagens/floresta1.jpg");
+    margin: 2px 15% 2px 60%;
+    padding: 85px;
+    float: right;
+}
